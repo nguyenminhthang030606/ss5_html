@@ -1,0 +1,50 @@
+.span1{
+    background-color: #afafaf;
+    color: red;
+}
+.p1{
+    text-align: center;
+    border-style: solid ;
+    border-width: medium 2PX;
+    border-color: GREEN;
+}
+.container{
+    height: 300px;
+    width: 99%;
+    background:#e5e9ed(197, 197, 197);
+    padding: 5px;
+    font-weight: bold;
+}
+.container1{
+    height: 100px;   
+    width: 99%;
+    background: rgb(255, 255, 255);
+    padding: 20px;
+    border-left: 5px solid rgb(255, 225, 0);
+    font-weight: bold;
+}
+.p2{
+    padding-bottom: 90px;
+    color: #764646;
+}
+.t1{
+    color: #764646;
+}
+.t2{
+    color: blue;
+}
+.t3{
+    color:red;
+}
+.t4{
+    color: blue;
+}
+button{
+    font-size: 8px;
+    color: white;      
+    border-radius: 10%;
+    background-color: green;
+    width: 70px;
+    height: 30px;
+    padding: 6px;
+    border: 3px solid green;

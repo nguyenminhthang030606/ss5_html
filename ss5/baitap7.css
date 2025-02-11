@@ -1,0 +1,43 @@
+div{
+    font-family: Arial, sans-serif;
+    background-color:#f2f2f2;
+}
+.container{
+    width: 80%;
+    background:#f2f2f2(145, 140, 140);
+    padding: 20px;
+    border-radius: 10px;
+}
+.table1{
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #f2f2f2;
+}
+.tr1{
+    background-color:rgb(81, 0, 255);
+}
+.tr2{
+    background-color:white;
+}
+td{
+    text-align: center;
+}
+th{
+    color:white
+}
+.bt1{
+    color: white;
+    background-color: green;
+    border: 3px solid green;
+}
+.bt2{
+    color: black;
+    background-color: yellow;
+    border: 3px solid yellow;
+}
+.bt3{
+    color: white;
+    background-color: red;
+    border: 3px solid red;
+}
+

@@ -1,0 +1,16 @@
+body{
+    font-family:Arial;
+}
+h3{
+    color: steelblue;
+}
+.p1{
+    font-weight: bold;
+}
+.container{
+    font-weight: bold;
+    border-left: 5px solid rgb(255, 225, 0);
+    width: 70%;
+    background: rgb(254, 210, 210);
+    padding: 20px;
+}
